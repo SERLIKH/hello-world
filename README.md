@@ -1,3 +1,3 @@
 # hello-world
-just a class project >_&lt\n;
+just a class project >_&lt;
 tsay;
